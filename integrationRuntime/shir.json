@@ -1,0 +1,10 @@
+{
+	"name": "shir",
+	"properties": {
+		"type": "SelfHosted",
+		"description": "to connect sql server",
+		"typeProperties": {
+			"selfContainedInteractiveAuthoringEnabled": false
+		}
+	}
+}
